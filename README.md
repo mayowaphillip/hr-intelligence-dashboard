@@ -140,6 +140,6 @@ Cover Page → Overview → Performance & Compensation → Engagement & Retentio
 Mayowa Phillip — Data Analyst
 📧 mayowaphillip@yahoo.com
 💼 [LinkedIn](https://www.linkedin.com/in/mayowaphillipelnuk)
-🐙 GitHub
+🐙 [GitHub](https://github.com/mayowaphillip)
 ---
 Built with Power BI · DAX · Power Query · IBM HR Analytics Dataset (Kaggle)
