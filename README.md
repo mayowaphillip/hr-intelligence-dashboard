@@ -11,17 +11,17 @@ This dashboard analyses employee attrition and workforce trends across 1,470 emp
 ---
 🖼️ Dashboard Preview
 Cover Page
-![Cover Page](images/cover_page.png)
+![Cover Page](data/images/cover_page.png)
 Page 1 — Overview
-![Overview](images/overview.png)
+![Overview](data/images/overview.png)
 Page 2 — Performance & Compensation
-![Performance & Compensation](images/performance_compensation.png)
+![Performance & Compensation](data/images/performance_compensation.png)
 Page 3 — Engagement & Retention
-![Engagement & Retention](images/engagement_retention.png)
+![Engagement & Retention](data/images/engagement_retention.png)
 Page 4 — Training & Growth
-![Training & Growth](images/training_growth.png)
+![Training & Growth](data/images/training_growth.png)
 Page 5 — Attrition Deep Dive
-![Attrition Deep Dive](images/attrition_deep_dive.png)
+![Attrition Deep Dive](data/images/attrition_deep_dive.png)
 ---
 🔢 Key Metrics at a Glance
 Metric	Value
